@@ -31,7 +31,7 @@ Certainly! Here are specific objectives aligned with those aspects:
 
 6.Conclusion - Recommendations,Limitations,Next Steps.
 
-![Analysis](<images and graphs/Analysis photo.jpg>)
+![Film Analysis](<images and graphs/Analysis photo.jpg>)
 
 
 ## 1. Overview
@@ -131,7 +131,7 @@ From the visualization above comparing each studio with the earnings we get to s
 
 Microsoft can partner and collaborate with this top performing studios will enhance chances of producing movies with high revenues as we can capitalize on their existing success and market presence.
 
-![Top Studios](<top performing studios-1.png>)
+![Top Studios](<images and graphs/top performing studios-1.png>)
 
 # Evaluation of top performing genres
 From the visualization above comparing each genre with the ratings we get to see that the top three performing studios are:-
@@ -143,13 +143,13 @@ From the visualization above comparing each genre with the ratings we get to see
 *Action,Crime,Drama
 
 Investing in this particular genres could prove profitable as they are highly rated by the audience.
-![Top Genre](<top performing genre.png>)
+
+![Top Genre](<images and graphs/top performing genre.png>)
 
 # Evaluation of budget and revenue
 From the visualization above comparing the production budget with the domestic gross we get to see that the higher the production budget the higher the domestic gross (revenue).This means that strategic investments ought to be made in movies inorder for it to result in profitable revenues . 
 
-![Profitability](<budget vs revenue.png>)
-
+![Profitability](<images and graphs/budget vs revenue.png>)
 
 ## 6. CONCLUSION
 In conclusion, the analysis offers valuable insights into current box office trends, potentially aiding the decision-making process for the new movie studio. However, it's essential to continuously validate and update these insights to ensure their ongoing relevance in an ever-evolving entertainment landscape.
