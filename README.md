@@ -129,6 +129,7 @@ From the visualization above comparing each studio with the earnings we get to s
 *Sony
 
 Microsoft can partner and collaborate with this top performing studios will enhance chances of producing movies with high revenues as we can capitalize on their existing success and market presence.
+
 ![Top Studios](<top performing studios-1.png>)
 
 # Evaluation of top performing genres
@@ -144,9 +145,10 @@ Investing in this particular genres could prove profitable as they are highly ra
 ![Top Genre](<top performing genre.png>)
 
 # Evaluation of budget and revenue
-From the visualization above comparing the production budget with the domestic gross we get to see that the higher the production budget the higher the domestic gross (revenue).This means that strategic investments ought to be made in movies inorder for it to result in profitable revenues .
+From the visualization above comparing the production budget with the domestic gross we get to see that the higher the production budget the higher the domestic gross (revenue).This means that strategic investments ought to be made in movies inorder for it to result in profitable revenues . 
 
-![Profitability](<budget vs revenue-1.png>)
+![Profitability](<budget vs revenue.png>)
+
 
 ## 6. CONCLUSION
 In conclusion, the analysis offers valuable insights into current box office trends, potentially aiding the decision-making process for the new movie studio. However, it's essential to continuously validate and update these insights to ensure their ongoing relevance in an ever-evolving entertainment landscape.
