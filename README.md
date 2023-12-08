@@ -1,7 +1,7 @@
 # Analyzing Film Trends for Microsoft's New Movie Studio
 **Authors:** Fanice Andayi
 ***
-
+![video content](technology-2608867_1280.jpg)
 
 
 # A) INTRODUCTION
@@ -31,6 +31,7 @@ Certainly! Here are specific objectives aligned with those aspects:
 
 6.Conclusion - Recommendations,Limitations,Next Steps.
 
+![Analysis](pexels-kindel-media-7688460.jpg)
 
 
 ## 1. Overview
