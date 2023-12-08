@@ -1,7 +1,7 @@
 # Analyzing Film Trends for Microsoft's New Movie Studio
 **Authors:** Fanice Andayi
 ***
-(![image.png](attachment:image.png))
+
 
 
 # A) INTRODUCTION
@@ -31,7 +31,7 @@ Certainly! Here are specific objectives aligned with those aspects:
 
 6.Conclusion - Recommendations,Limitations,Next Steps.
 
-![image.png](attachment:image.png)
+
 
 ## 1. Overview
 
@@ -82,13 +82,6 @@ c.Check whether each column has an appropriate data type
 
 ## 4. Data Preparation/Cleaning
 
-Describe and justify the process for preparing the data for analysis.
-Questions to consider:
-* Were there variables you dropped or created?
-* How did you address missing values or outliers?
-* Why are these choices appropriate given the data and the business problem?
-Here we are going to follow the steps below for data preparation:
-
 In preparing the data for analysis in the context of understanding successful films at the box office, several steps were taken to ensure the data's quality, relevance, and reliability. Here's an overview of the data preparation process and the reasoning behind the decisions made:
 
 a)Checking for missing data
@@ -112,16 +105,6 @@ During data understanding we noticed that some gross columns were Objects instea
 The data preparation process was critical to ensuring that the subsequent analysis provided meaningful insights into successful movie attributes at the box office, guiding decision-making for Microsoft's new movie studio venture.
 
 ## Data Analysis and Evaluation
-Evaluate how well your work solves the stated business problem.
-
-***
-Questions to consider:
-* How do you interpret the results?
-* How well does your model fit your data? How much better is this than your baseline model?
-* How confident are you that your results would generalize beyond the data you have?
-* How confident are you that this model would benefit the business if put into use?
-***
-
 
 In the context of exploring successful films at the box office, the focus was more on descriptive analysis rather than building predictive models. Here's an outline of the approach taken for analyzing the data:
 The analysis focused on identifying attributes associated with box office success, aligning with the business problem of guiding Microsoft's movie studio in selecting film types.
@@ -136,15 +119,36 @@ The analysis focused on identifying attributes associated with box office succes
 - The insights derived from the analysis can serve as valuable guidance for Microsoft's movie studio in making informed decisions.
 - Implementing strategies aligned with these insights could potentially increase the studio's chances of creating successful movies that resonate with audiences.
 
-## 6. CONCLUSIONS
-Provide your conclusions about the work you've done, including any limitations or next steps.
+# Evaluation of Top performing Studios
+From the visualization above comparing each studio with the earnings we get to see that the top three performing studios are:-
 
-***
-Questions to consider:
-* What would you recommend the business do as a result of this work?
-* What are some reasons why your analysis might not fully solve the business problem?
-* What else could you do in the future to improve this project?
-***
+*(P/DW)-Paramount Pictures/Dream Works
+
+*(BV)-Buena Vista
+
+*Sony
+
+Microsoft can partner and collaborate with this top performing studios will enhance chances of producing movies with high revenues as we can capitalize on their existing success and market presence.
+![Top Studios](<top performing studios-1.png>)
+
+# Evaluation of top performing genres
+From the visualization above comparing each genre with the ratings we get to see that the top three performing studios are:-
+
+*Adventure,Animation,Comedy
+
+*Biography,Drama
+
+*Action,Crime,Drama
+
+Investing in this particular genres could prove profitable as they are highly rated by the audience.
+![Top Genre](<top performing genre.png>)
+
+# Evaluation of budget and revenue
+From the visualization above comparing the production budget with the domestic gross we get to see that the higher the production budget the higher the domestic gross (revenue).This means that strategic investments ought to be made in movies inorder for it to result in profitable revenues .
+
+![Profitability](<budget vs revenue-1.png>)
+
+## 6. CONCLUSION
 In conclusion, the analysis offers valuable insights into current box office trends, potentially aiding the decision-making process for the new movie studio. However, it's essential to continuously validate and update these insights to ensure their ongoing relevance in an ever-evolving entertainment landscape.
 
 ## RECOMMENDATIONS
