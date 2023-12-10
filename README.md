@@ -8,7 +8,7 @@
 In an evolving landscape where original content reigns supreme, understanding the current cinematic trends that drive box office success is paramount for Microsoft's foray into the movie industry. This analysis delves into the diverse genres and themes that have proven their commercial prowess, offering actionable insights to guide the strategic direction of Microsoft's new movie studio. By examining the recent box office hits, audience preferences, and emerging patterns in storytelling, this exploration aims to illuminate the potential pathways for Microsoft to carve its niche and thrive in this competitive arena.
 # B) PROBLEM STATEMENT
 Microsoft sees all the big companies creating original video content and they want to get in on the fun. They have decided to create a new movie studio, but they don’t know anything about creating movies. You are charged with exploring what types of films are currently doing the best at the box office. You must then translate those findings into actionable insights that the head of Microsoft's new movie studio can use to help decide what type of films to create.
-# c) MAIN OBJECTIVE
+# C) MAIN OBJECTIVE
 The main objective is to identify prevalent box office trends and audience preferences across genres, providing strategic direction for Microsoft's new movie studio to create compelling, commercially successful films that resonate with audiences and differentiate the brand in the market.
 # D) SPECIFIC OBJECTIVES
 Certainly! Here are specific objectives aligned with those aspects:
@@ -105,7 +105,7 @@ During data understanding we noticed that some gross columns were Objects instea
 
 The data preparation process was critical to ensuring that the subsequent analysis provided meaningful insights into successful movie attributes at the box office, guiding decision-making for Microsoft's new movie studio venture.
 
-## Data Analysis and Evaluation
+## 5.Data Analysis and Evaluation
 
 In the context of exploring successful films at the box office, the focus was more on descriptive analysis rather than building predictive models. Here's an outline of the approach taken for analyzing the data:
 The analysis focused on identifying attributes associated with box office success, aligning with the business problem of guiding Microsoft's movie studio in selecting film types.
@@ -121,7 +121,7 @@ The analysis focused on identifying attributes associated with box office succes
 - Implementing strategies aligned with these insights could potentially increase the studio's chances of creating successful movies that resonate with audiences.
 
 # Evaluation of Top performing Studios
-From the visualization above comparing each studio with the earnings we get to see that the top three performing studios are:-
+From the visualization below comparing each studio with the earnings we get to see that the top three performing studios are:-
 
 *(P/DW)-Paramount Pictures/Dream Works
 
@@ -134,7 +134,7 @@ Microsoft can partner and collaborate with this top performing studios will enha
 ![Top Studios](<images and graphs/top performing studios-1.png>)
 
 # Evaluation of top performing genres
-From the visualization above comparing each genre with the ratings we get to see that the top three performing studios are:-
+From the visualization below comparing each genre with the ratings we get to see that the top three performing studios are:-
 
 *Adventure,Animation,Comedy
 
@@ -147,7 +147,7 @@ Investing in this particular genres could prove profitable as they are highly ra
 ![Top Genre](<images and graphs/top performing genre.png>)
 
 # Evaluation of budget and revenue
-From the visualization above comparing the production budget with the domestic gross we get to see that the higher the production budget the higher the domestic gross (revenue).This means that strategic investments ought to be made in movies inorder for it to result in profitable revenues . 
+From the visualization below comparing the production budget with the domestic gross we get to see that the higher the production budget the higher the domestic gross (revenue).This means that strategic investments ought to be made in movies inorder for it to result in profitable revenues . 
 
 ![Profitability](<images and graphs/budget vs revenue.png>)
 
